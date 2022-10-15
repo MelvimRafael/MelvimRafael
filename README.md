@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvimRafael&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Tecnologias que eu uso no meu dia!
+## Tecnologias que eu estou estudando atualmente!
 
 
 <div style = "display: inline_blok"> </br>
